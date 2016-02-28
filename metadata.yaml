@@ -1,0 +1,29 @@
+_repo: The-Call-of-the-Cumberlands_7776
+creator:
+  author:
+    agent_name: Buck, Charles Neville
+    birthdate: 1879
+    deathdate: 1930
+    gutenberg_agent_id: '2520'
+    url: http://www.gutenberg.org/2009/agents/2520
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/l#a36873
+    - http://www.english.eku.edu/services/kylit/buck.htm
+description: 'Illustrations: "I couldn''t live withouten ye, Samson. I jest couldn''t
+  do it." -- "Ef ever ye crosses that stile out thar again, so help me God, this gun
+  air goin'' ter shoot." -- "Why did you insist on putting that in my pocket?" --
+  A man opened the door and said shortly, "We lays down."'
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cumberland Mountains -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Mountain life -- Fiction'
+title: The Call of the Cumberlands
+url: http://www.gutenberg.org/ebooks/7776
