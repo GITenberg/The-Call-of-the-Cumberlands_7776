@@ -1,4 +1,8 @@
 _repo: The-Call-of-the-Cumberlands_7776
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Buck, Charles Neville
@@ -13,6 +17,8 @@ description: 'Illustrations: "I couldn''t live withouten ye, Samson. I jest coul
   do it." -- "Ef ever ye crosses that stile out thar again, so help me God, this gun
   air goin'' ter shoot." -- "Why did you insist on putting that in my pocket?" --
   A man opened the door and said shortly, "We lays down."'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7776#The-Call-of-the-Cumberlands
 gutenberg_issued: '2005-03-01'
 gutenberg_type: Text
 identifiers:
